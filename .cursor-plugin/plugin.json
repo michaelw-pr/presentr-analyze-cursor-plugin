@@ -1,0 +1,16 @@
+{
+  "name": "presentr-analyze",
+  "displayName": "Presentr Analyze",
+  "version": "0.1.0",
+  "description": "Check, translate and re-time subtitles, pull text from PDFs and scans, read text aloud and dub audio or video, from your agent. Every paid job starts with a quote.",
+  "author": {
+    "name": "Presentr",
+    "email": "michael@presentr.me",
+    "url": "https://analyze.presentr.me"
+  },
+  "homepage": "https://analyze.presentr.me/developer/agents",
+  "repository": "https://github.com/michaelw-pr/presentr-analyze-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["subtitles", "translation", "text-to-speech", "dubbing", "ocr", "mcp"],
+  "logo": "assets/logo.png"
+}

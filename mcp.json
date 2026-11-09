@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "presentr-analyze": {
+      "url": "https://analyze.presentr.me/api/mcp"
+    }
+  }
+}
